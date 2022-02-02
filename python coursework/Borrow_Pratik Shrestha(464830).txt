@@ -1,0 +1,10 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+			Customer Borrow Detail
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Name of borrower: Pratik Shrestha
+Books borrowed: Programming With Python
+Date of issue: 2022-02-02
+Time of issue: 10:25:16.863604
+
+Total price: $1.5
